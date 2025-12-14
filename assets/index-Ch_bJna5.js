@@ -15667,7 +15667,7 @@ function ix() {
             children: [
               re.jsx("h1", {
                 className: "text-4xl md:text-5xl mb-4",
-                children: "Alex Morgan",
+                children: "Andi Prokhorov",
               }),
               re.jsx("p", {
                 className: "text-white/70 text-lg max-w-2xl",
